@@ -1,0 +1,10 @@
+name: UnrisenCore
+version: 1.0.0
+author: Koala
+main: com.theunrisen.UnrisenCore.Main
+commands:
+  help:
+  discord:
+  rewards:
+  rewardsreset:
+  kit:
